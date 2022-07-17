@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yaelsoosan
 - 👁️‍🗨️ I’m a data analyst 
-- Visit me on [LinkedIn](https://www.linkedin.com/in/yael-soosan-54902522a/)
+- ![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit me on [LinkedIn](https://www.linkedin.com/in/yael-soosan-54902522a/)
+
 
 
 <!---
